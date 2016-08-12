@@ -1,4 +1,4 @@
-https://github.com/baitxaps/BridegPattern.git
+http://blog.csdn.net/baitxaps/article/details/52195547
 桥梁模式(Bridge Pattern)
 
 定义：Decouple an abstraction from its implementation so that the two can vary independently.（将抽象和实现解耦，使得两者可以独立地变化。）
