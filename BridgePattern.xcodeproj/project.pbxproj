@@ -8,6 +8,16 @@
 
 /* Begin PBXBuildFile section */
 		77063A191D5DE6A90037A415 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A181D5DE6A90037A415 /* main.m */; };
+		77063A231D5DEBC00037A415 /* HouseCorp.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A221D5DEBC00037A415 /* HouseCorp.m */; };
+		77063A261D5DEC6C0037A415 /* ClothesCorp.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A251D5DEC6C0037A415 /* ClothesCorp.m */; };
+		77063A2C1D5DEE1D0037A415 /* IPodCrop.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A2B1D5DEE1D0037A415 /* IPodCrop.m */; };
+		77063A321D5DEFCE0037A415 /* House.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A311D5DEFCE0037A415 /* House.m */; };
+		77063A351D5DF0490037A415 /* IPod.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A341D5DF0490037A415 /* IPod.m */; };
+		77063A371D5DF0BB0037A415 /* Corp.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A361D5DF0BB0037A415 /* Corp.m */; };
+		77063A3D1D5DFE090037A415 /* ConcreteImplementor1.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A3C1D5DFE090037A415 /* ConcreteImplementor1.m */; };
+		77063A401D5DFE390037A415 /* ConcreteImplementor2.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A3F1D5DFE390037A415 /* ConcreteImplementor2.m */; };
+		77063A431D5E008D0037A415 /* Abstraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A421D5E008D0037A415 /* Abstraction.m */; };
+		77063A461D5E02520037A415 /* RefinedAbstraction.m in Sources */ = {isa = PBXBuildFile; fileRef = 77063A451D5E02520037A415 /* RefinedAbstraction.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +35,31 @@
 /* Begin PBXFileReference section */
 		77063A151D5DE6A90037A415 /* BridgePattern */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = BridgePattern; sourceTree = BUILT_PRODUCTS_DIR; };
 		77063A181D5DE6A90037A415 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		77063A201D5DEB850037A415 /* Corp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Corp.h; sourceTree = "<group>"; };
+		77063A211D5DEBC00037A415 /* HouseCorp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HouseCorp.h; sourceTree = "<group>"; };
+		77063A221D5DEBC00037A415 /* HouseCorp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HouseCorp.m; sourceTree = "<group>"; };
+		77063A241D5DEC6C0037A415 /* ClothesCorp.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ClothesCorp.h; sourceTree = "<group>"; };
+		77063A251D5DEC6C0037A415 /* ClothesCorp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ClothesCorp.m; sourceTree = "<group>"; };
+		77063A291D5DEDCC0037A415 /* BridegPattern002.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BridegPattern002.png; sourceTree = "<group>"; };
+		77063A2A1D5DEE1D0037A415 /* IPodCrop.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPodCrop.h; sourceTree = "<group>"; };
+		77063A2B1D5DEE1D0037A415 /* IPodCrop.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPodCrop.m; sourceTree = "<group>"; };
+		77063A2E1D5DEF560037A415 /* BridegPattern003.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BridegPattern003.png; sourceTree = "<group>"; };
+		77063A2F1D5DEF8C0037A415 /* Produce.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Produce.h; sourceTree = "<group>"; };
+		77063A301D5DEFCE0037A415 /* House.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = House.h; sourceTree = "<group>"; };
+		77063A311D5DEFCE0037A415 /* House.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = House.m; sourceTree = "<group>"; };
+		77063A331D5DF0490037A415 /* IPod.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = IPod.h; sourceTree = "<group>"; };
+		77063A341D5DF0490037A415 /* IPod.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = IPod.m; sourceTree = "<group>"; };
+		77063A361D5DF0BB0037A415 /* Corp.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Corp.m; sourceTree = "<group>"; };
+		77063A391D5DFDAB0037A415 /* BridegPattern001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BridegPattern001.png; sourceTree = "<group>"; };
+		77063A3A1D5DFDDC0037A415 /* Implementor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Implementor.h; sourceTree = "<group>"; };
+		77063A3B1D5DFE090037A415 /* ConcreteImplementor1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConcreteImplementor1.h; sourceTree = "<group>"; };
+		77063A3C1D5DFE090037A415 /* ConcreteImplementor1.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConcreteImplementor1.m; sourceTree = "<group>"; };
+		77063A3E1D5DFE390037A415 /* ConcreteImplementor2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ConcreteImplementor2.h; sourceTree = "<group>"; };
+		77063A3F1D5DFE390037A415 /* ConcreteImplementor2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ConcreteImplementor2.m; sourceTree = "<group>"; };
+		77063A411D5E008D0037A415 /* Abstraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Abstraction.h; sourceTree = "<group>"; };
+		77063A421D5E008D0037A415 /* Abstraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Abstraction.m; sourceTree = "<group>"; };
+		77063A441D5E02520037A415 /* RefinedAbstraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RefinedAbstraction.h; sourceTree = "<group>"; };
+		77063A451D5E02520037A415 /* RefinedAbstraction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RefinedAbstraction.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,6 +76,7 @@
 		77063A0C1D5DE6A90037A415 = {
 			isa = PBXGroup;
 			children = (
+				77063A381D5DFD940037A415 /* Brideg */,
 				77063A171D5DE6A90037A415 /* BridgePattern */,
 				77063A161D5DE6A90037A415 /* Products */,
 			);
@@ -57,9 +93,41 @@
 		77063A171D5DE6A90037A415 /* BridgePattern */ = {
 			isa = PBXGroup;
 			children = (
+				77063A2E1D5DEF560037A415 /* BridegPattern003.png */,
+				77063A291D5DEDCC0037A415 /* BridegPattern002.png */,
 				77063A181D5DE6A90037A415 /* main.m */,
+				77063A201D5DEB850037A415 /* Corp.h */,
+				77063A361D5DF0BB0037A415 /* Corp.m */,
+				77063A211D5DEBC00037A415 /* HouseCorp.h */,
+				77063A221D5DEBC00037A415 /* HouseCorp.m */,
+				77063A241D5DEC6C0037A415 /* ClothesCorp.h */,
+				77063A251D5DEC6C0037A415 /* ClothesCorp.m */,
+				77063A2A1D5DEE1D0037A415 /* IPodCrop.h */,
+				77063A2B1D5DEE1D0037A415 /* IPodCrop.m */,
+				77063A2F1D5DEF8C0037A415 /* Produce.h */,
+				77063A301D5DEFCE0037A415 /* House.h */,
+				77063A311D5DEFCE0037A415 /* House.m */,
+				77063A331D5DF0490037A415 /* IPod.h */,
+				77063A341D5DF0490037A415 /* IPod.m */,
 			);
 			path = BridgePattern;
+			sourceTree = "<group>";
+		};
+		77063A381D5DFD940037A415 /* Brideg */ = {
+			isa = PBXGroup;
+			children = (
+				77063A391D5DFDAB0037A415 /* BridegPattern001.png */,
+				77063A3A1D5DFDDC0037A415 /* Implementor.h */,
+				77063A3B1D5DFE090037A415 /* ConcreteImplementor1.h */,
+				77063A3C1D5DFE090037A415 /* ConcreteImplementor1.m */,
+				77063A3E1D5DFE390037A415 /* ConcreteImplementor2.h */,
+				77063A3F1D5DFE390037A415 /* ConcreteImplementor2.m */,
+				77063A411D5E008D0037A415 /* Abstraction.h */,
+				77063A421D5E008D0037A415 /* Abstraction.m */,
+				77063A441D5E02520037A415 /* RefinedAbstraction.h */,
+				77063A451D5E02520037A415 /* RefinedAbstraction.m */,
+			);
+			path = Brideg;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -118,6 +186,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				77063A401D5DFE390037A415 /* ConcreteImplementor2.m in Sources */,
+				77063A261D5DEC6C0037A415 /* ClothesCorp.m in Sources */,
+				77063A3D1D5DFE090037A415 /* ConcreteImplementor1.m in Sources */,
+				77063A351D5DF0490037A415 /* IPod.m in Sources */,
+				77063A431D5E008D0037A415 /* Abstraction.m in Sources */,
+				77063A2C1D5DEE1D0037A415 /* IPodCrop.m in Sources */,
+				77063A371D5DF0BB0037A415 /* Corp.m in Sources */,
+				77063A461D5E02520037A415 /* RefinedAbstraction.m in Sources */,
+				77063A231D5DEBC00037A415 /* HouseCorp.m in Sources */,
+				77063A321D5DEFCE0037A415 /* House.m in Sources */,
 				77063A191D5DE6A90037A415 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
